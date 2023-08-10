@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505528342440",
+    "project_id": "chat-app-bbd9f",
+    "storage_bucket": "chat-app-bbd9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505528342440:android:620a0640d30333d04d2f9d",
+        "android_client_info": {
+          "package_name": "com.umashankar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505528342440-u1de1ftecplvc1rjrf7r0fne9nqp56dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWHLu2uQivlSQwAfB8n-ky-XuAZEsuSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505528342440-u1de1ftecplvc1rjrf7r0fne9nqp56dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
